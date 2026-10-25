@@ -81,7 +81,7 @@ A project focused on student campus placement management.
 
 **Tech:** Java
 
-[View Repositories](https://github.com/priteshanwat/Project)
+[View Repositories](https://github.com/priteshanwat/Student-Campus-Placement-Management-System)
 
 ---
 
