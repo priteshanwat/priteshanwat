@@ -63,7 +63,7 @@ A personal website showcasing my work and projects.
 
 **Tech:** HTML, CSS
 
-[View Repositories](https://github.com/priteshanwat?tab=repositories)
+[View Repositories](https://github.com/priteshanwat/Portfolio)
 
 ---
 
@@ -72,7 +72,7 @@ A billing management project built with PHP.
 
 **Tech:** PHP
 
-[View Repositories](https://github.com/priteshanwat?tab=repositories)
+[View Repositories](https://github.com/priteshanwat/BillMatrix)
 
 ---
 
@@ -81,7 +81,7 @@ A project focused on student campus placement management.
 
 **Tech:** Java
 
-[View Repositories](https://github.com/priteshanwat?tab=repositories)
+[View Repositories](https://github.com/priteshanwat/Project)
 
 ---
 
@@ -95,17 +95,6 @@ A project focused on student campus placement management.
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=priteshanwat&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
-  />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/priteshanwat/priteshanwat/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution animation"
   />
 </p>
 
